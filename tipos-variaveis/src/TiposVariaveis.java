@@ -8,6 +8,8 @@ public class TiposVariaveis {
         
         short numeroCurto2 = (short) numeroNormal;
 
+        System.out.println(numeroNormal);
+
         final double VALOR_DE_PI = 3.14;
         //Quando escrevemos em caixa alta e com a tipo FINAL ela não pode ser alterada ao longo do codigo
     }
